@@ -1,0 +1,14 @@
+{
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "python.pythonPath": "/home/will/miniconda3/envs/fcnd/bin/python",
+    "cmake.debugConfig": {
+        "sourceFileMap": {
+            "/build/glibc-OTsEL5": "/usr/src/glibc"
+        },
+        "cwd": "${workspaceFolder}/build"
+    },
+    "files.associations": {
+        "*.cpp": "cpp",
+        "random": "cpp"
+    }
+}
